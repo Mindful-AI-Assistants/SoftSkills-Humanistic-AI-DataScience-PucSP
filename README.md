@@ -110,7 +110,7 @@ In today's rapidly evolving technology landscape, [**technical expertise alone i
 10. [Resume Preparation](#10-resume-preparation)
 11. [LinkedIn Preparation](#11-linkedin-preparation)
 12. [LinkedIn Digital Interview](#12-linkedin-digital-interview)
-    [Health Team Management: Gaslighting at Work  Strategies for Self-Defense and Thriving Management](https://github.com/Mindful-AI-Assistants/HealthTeam-GaslightingResearch-Repository)
+13. [Health Team Management: Gaslighting at Work  Strategies for Self-Defense and Thriving Management](https://github.com/Mindful-AI-Assistants/HealthTeam-GaslightingResearch-Repository)
 
 <br><br>
 
