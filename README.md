@@ -362,15 +362,16 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 ### 13.  [Health Team Management](): Gaslighting at Work [-]() Strategies for Self-Defense and Thriving Management
 
+
 - [***A Psychological Guide for***](): ***Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims***
+
+<br>
 
 -  [How to](): Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments
 
 
 
 <br>
-
-
 
 
 > [!IMPORTANT]
