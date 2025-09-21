@@ -355,21 +355,23 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 <br>
 
-
-> [!TIP]
->
->  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_12-SoftSskills-Linkedin%20Digital%20Interview.pdf) 
->
-
-
+#
 
 <br>
 
-### 13. [**Health Team**]()
+
+
+### 13. 𝚿 [Health Team Management](): Gaslighting at Work [-]() Strategies for Self-Defense and Thriving Management
+
+[***A Psychological Guide for***](): ***Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims***
+
+[***How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments***]()
 
 
 
-<br>
+
+
+
 
 
 > [!IMPORTANT]
@@ -379,11 +381,20 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 
 
+<!--
+
+<br>
+
+> [!TIP]
+>
+>  * [**Access Program Content**]()
+>
+
+-->
 
 
 
-
-<br.<br>
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
