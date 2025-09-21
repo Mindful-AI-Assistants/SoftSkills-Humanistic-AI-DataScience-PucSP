@@ -365,45 +365,7 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 <br>
 
-### 13.# [Recognizing the Gaslighter Profile: Common Behaviors and Signs]()
-
-Gaslighters in the workplace display a set of persistent behaviors that reflect both their psychological traits and manipulative strategies. Understanding these signs can help in identifying and addressing gaslighting effectively.
-
-### Common Gaslighter Behaviors
-
-- Withholding or omitting important information to keep others unprepared.
-- Constant, non-constructive criticism aimed at undermining self-confidence.
-- Frequent and unjustified changes to rules, goals, or responsibilities.
-- Denying or distorting facts to make victims doubt their memory and perception.
-- Taking credit for the ideas or work of others.
-- Spreading false rumors or creating conflicts to harm reputations.
-- Avoiding written records of agreements to later alter narratives.
-- Blaming victims for team or management failures.
-- Alternating between manipulative and seemingly friendly behavior to confuse.
-
-
-<br>
-
-
-
-## Psychological Traits and Symbolic Appropriation
-
-Despite physical separation or distancing from the team, gaslighters often continue exhibiting their personality traits through language, gestures, writing style, and symbolic appropriation. This latter term in psychology refers to how individuals with narcissistic traits absorb and use symbols, words, or behaviors from others to reinforce their control and grandiosity.
-
-These traits include:
-
-- Grandiosity and the need for control.
-- Lack of empathy and emotional manipulation.
-- Use of language and body language that minimizes others.
-- Repetitive patterns of symbolic behavior reinforcing dominance.
-
-Understanding this profile aids management and HR professionals in mitigating lasting negative impacts within teams.
-
-
-
-
-<br>
-
+### 13. [**Health Team**]()
 
 
 
