@@ -376,7 +376,9 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 > [!IMPORTANT]
 >
->  * 𝚿 [Visit the repository to access the full research](https://yourdomain.com/repository)
+> 𝚿 
+>
+> ➠ [Visit the repository to access the full research](https://yourdomain.com/repository)
 >
 >
 
