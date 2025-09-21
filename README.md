@@ -353,23 +353,15 @@ Guides students to effectively build their professional online presence, enhanci
 Prepares students for the growing trend of digital interviews, focusing on presentation skills, timing, and technical readiness to succeed in modern recruitment processes.
 
 
-<br>
 
-
-> [!TIP]
->
->  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_12-SoftSskills-Linkedin%20Digital%20Interview.pdf) 
->
+<br><br>
 
 
 
-<br>
-
-### 13.
+<br><br>
 
 
 
-<br>
 
 
 > [!IMPORTANT]
@@ -380,10 +372,24 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 
 
 
+<br>
+
+### 13. 𝚿 [Health Team Management](): Gaslighting at Work [-]() Strategies for Self-Defense and Thriving Management
+
+
+<br>
+
+
+> [!TIP]
+>
+>  * [**Access Program Content**](https://github.com/Mindful-AI-Assistants/SoftSkills-Humanistic-AI-DataScience-PucSP/blob/cd633650b4cac90ada42c6e2079aa53adc620d08/_12-SoftSskills-Linkedin%20Digital%20Interview.pdf) 
+>
 
 
 
-<br.<br>
+
+
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
