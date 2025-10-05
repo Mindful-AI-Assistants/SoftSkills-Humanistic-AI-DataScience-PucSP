@@ -388,7 +388,7 @@ Prepares students for the growing trend of digital interviews, focusing on prese
 >
 > 𝚿 
 >
-> ➠ [Visit the repository to access the full research](https://yourdomain.com/repository)
+> ➠ [Visit the repository to access the full research](https://github.com/Mindful-AI-Assistants/HealthTeam-GaslightingResearch-Repository)
 >
 >
 
