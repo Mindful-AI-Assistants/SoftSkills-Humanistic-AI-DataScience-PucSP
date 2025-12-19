@@ -18,17 +18,6 @@
 https://github.com/user-attachments/assets/bbf7d69a-cb47-4342-9ce5-88bf6ae7ce0b
 -->
 
-https://github.com/user-attachments/assets/0353e8d2-0358-408e-bc1a-c069e56b5b93
-
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
-
-
-
-
-<br><br><br>
 
 
 [**Humanistic AI and Data Science**]() – 4th Semester  
@@ -50,7 +39,7 @@ https://github.com/user-attachments/assets/0353e8d2-0358-408e-bc1a-c069e56b5b93
 <br><br><br><br>
 
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > ⚠️ Heads Up 
 >
@@ -70,7 +59,20 @@ https://github.com/user-attachments/assets/0353e8d2-0358-408e-bc1a-c069e56b5b93
 
 <br><br><br>
 
+
 <!--End-->
+
+
+
+
+
+https://github.com/user-attachments/assets/0353e8d2-0358-408e-bc1a-c069e56b5b93
+
+
+<br><br><br>
+
+
+
 
 
 > [!TIP]
